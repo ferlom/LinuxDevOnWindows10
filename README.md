@@ -1,2 +1,2 @@
 # sinatrademo
-Sinatra Demo Project from Linux Bash on Wondows 10
+Sinatra Demo Project from Linux Bash on Windows 10
